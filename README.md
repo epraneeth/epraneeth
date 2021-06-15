@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+ ![Twitter URL](https://img.shields.io/twitter/url?label=praneeth%20Earlagadda&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fpraneeth_earl)
+- 👨‍💻 I am Praneeth  & I am Computer Science grad.
+- 📖 This profile contains code for concepts that I am  learning.
 
-<!--
-**epraneeth/epraneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I Would Like to Do
+- [ ] Complete learning C
+- [ ] Learn D&S and code them in C
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| list | name  |
+| ---     |--- |
+|     |   |
+|      |     |
